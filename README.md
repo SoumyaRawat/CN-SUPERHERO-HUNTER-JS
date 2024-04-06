@@ -1,8 +1,8 @@
 ## SuperHero Web App
 
-This is a front-end project using the Marvel API for searching for superheroes and there details.
+This is a front-end project using the Marvel API for searching for superheroes and their details.
 
-### [See it in action](https://soumyarawat.github.io/CN-SUPERHERO-HUNTER-JS))
+### [See it in action](https://soumyarawat.github.io/CN-SUPERHERO-HUNTER-JS)
 
 ### General steps to follow when creating a project
 
@@ -12,11 +12,11 @@ This is a front-end project using the Marvel API for searching for superheroes a
 
 # Functionality
 
-    . Get superheroes details from marvel API
-    . Render superheroes and their details on home page
+    . Get superhero details from Marvel API
+    . Render superheroes and their details on the home page
     . Mark and Unmark superheroes as favourites
-    . Search superheroes on home page and on favourities page as well
-    . Creating more details links on all comics,series and events for more details and redirect to marvel's website
+    . Search superheroes on the home page and on the favourites page as well
+    . Creating more details links on all comics, series and events for more details and redirect to Marvel's website
 
 # Responsiveness
 
@@ -25,10 +25,10 @@ This is a front-end project using the Marvel API for searching for superheroes a
 
 # Data
 
-    . Creating array of object in local storage of the browser to
-    store favourite superheroes details - id,name,image
-    . Creating session variable to storage id of selected superhero
-    for rendering the details of superhero on another page.
+    . Creating an array of objects in local storage of the browser to
+    store favourite superhero's details - ID,name, image
+    . Creating a session variable to store id of the selected superhero
+    for rendering the details of the superhero on another page.
 
 # Function in common_functionality.js
 
