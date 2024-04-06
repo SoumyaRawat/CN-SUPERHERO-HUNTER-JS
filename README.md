@@ -2,7 +2,7 @@
 
 This is a front-end project using the Marvel API for searching for superheroes and there details.
 
-preview: https://ketandogra.github.io/SuperHeroApp/
+preview: https://soumyarawat.github.io/CN-SUPERHERO-HUNTER-JS/
 
 ### General steps to follow when creating a project
 
